@@ -6,8 +6,8 @@ package student;
 
 import java.util.Scanner;
 
-/**
- *
+/**test
+ *changes made here
  * @author shahe
  */
 public class ReverseWord {
