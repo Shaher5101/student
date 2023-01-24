@@ -1,4 +1,6 @@
-/*
+/*https://github.com/Shaher5101/student.git
+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
+fetch+merge
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
@@ -9,7 +11,7 @@ import java.util.Scanner;
 /**test
  *changes made here
  * @author shahe
- */
+ *huuuuuuuhuuhuhuhuhuuhhuhuuhhuhuhuhuh
 public class ReverseWord {
     public static void main(String[]args){
        /* char[] myArray = new char[7];
