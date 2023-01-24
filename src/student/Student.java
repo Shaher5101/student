@@ -5,7 +5,7 @@
 package student;
 
 /**
- *
+ * comment from git
  * @author shahe
  */
 public class Student {
